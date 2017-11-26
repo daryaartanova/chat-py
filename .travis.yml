@@ -4,6 +4,3 @@ python:
 # command to install dependencies
 script:
   - python tests.py
-branches:
-  only:
-    - master
