@@ -1,3 +1,2 @@
 # chat-py
-Multi-client chat written in Python for applied programming course.
-CI realized using Travis CI.
+Мультипользовальтельский чат на Python. CI реализована с помощью Travis CI.
